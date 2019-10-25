@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Project\\Tracker\\Tracker\\Tracker\\Tracker.csproj": {}
+    "C:\\My Files\\Project\\Tracker\\Tracker\\Tracker.csproj": {}
   },
   "projects": {
-    "C:\\Project\\Tracker\\Tracker\\Tracker\\Tracker.csproj": {
+    "C:\\My Files\\Project\\Tracker\\Tracker\\Tracker.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Project\\Tracker\\Tracker\\Tracker\\Tracker.csproj",
+        "projectUniqueName": "C:\\My Files\\Project\\Tracker\\Tracker\\Tracker.csproj",
         "projectName": "Tracker",
-        "projectPath": "C:\\Project\\Tracker\\Tracker\\Tracker\\Tracker.csproj",
-        "packagesPath": "C:\\Users\\C5093299\\.nuget\\packages\\",
-        "outputPath": "C:\\Project\\Tracker\\Tracker\\Tracker\\obj\\",
+        "projectPath": "C:\\My Files\\Project\\Tracker\\Tracker\\Tracker.csproj",
+        "packagesPath": "C:\\Users\\c5093299\\.nuget\\packages\\",
+        "outputPath": "C:\\My Files\\Project\\Tracker\\Tracker\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "C:\\Users\\C5093299\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\c5093299\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -51,10 +51,18 @@
               "version": "[2.1.1, )",
               "autoReferenced": true
             },
+            "Microsoft.AspNetCore.Cors": {
+              "target": "Package",
+              "version": "[2.1.1, )"
+            },
             "Microsoft.AspNetCore.Razor.Design": {
               "suppressParent": "All",
               "target": "Package",
               "version": "[2.1.2, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[2.1.11, )"
             },
             "Microsoft.NETCore.App": {
               "target": "Package",

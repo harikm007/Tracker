@@ -4,3 +4,6 @@
 
 /.vs/Tracker/v16
 /.vs/Tracker
+/Tracker/bin/Debug/netcoreapp2.1
+/.vs
+/Tracker/obj/Release/netcoreapp2.1

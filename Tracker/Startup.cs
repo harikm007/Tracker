@@ -30,6 +30,7 @@ namespace Tracker
             var connectionString = Configuration["ConnectionStrings:TrackerConnection"];//.GetConnectionString("TrackerConnection");
             services.AddDbContext<TrackerContext>(opt => opt.UseSqlServer(connectionString));
             services.AddMvc().SetCompatibilityVersion(CompatibilityVersion.Version_2_1);
+            services.AddCors();
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.
@@ -46,6 +47,9 @@ namespace Tracker
 
             app.UseHttpsRedirection();
             app.UseMvc();
+            app.UseCors(options => options.AllowAnyOrigin()//WithOrigins("http://localhost:4200")
+            .AllowAnyMethod()
+            .AllowAnyHeader());
         }
     }
 }

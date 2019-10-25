@@ -13,5 +13,7 @@ namespace Tracker.Model
         }
 
         public DbSet<Employee> Employees { get; set; }
+        public DbSet<Project> Projects { get; set; }
+        public DbSet<ProjectEmployeeMapping> ProjectEmployeeMappings { get; set; }
     }
 }

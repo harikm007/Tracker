@@ -1,0 +1,14 @@
+C:\My Files\Project\Tracker\Tracker\obj\Debug\netcoreapp2.1\Tracker.csprojAssemblyReference.cache
+C:\My Files\Project\Tracker\Tracker\obj\Debug\netcoreapp2.1\Tracker.csproj.CoreCompileInputs.cache
+C:\My Files\Project\Tracker\Tracker\obj\Debug\netcoreapp2.1\Tracker.RazorAssemblyInfo.cache
+C:\My Files\Project\Tracker\Tracker\obj\Debug\netcoreapp2.1\Tracker.RazorAssemblyInfo.cs
+C:\My Files\Project\Tracker\Tracker\obj\Debug\netcoreapp2.1\Tracker.AssemblyInfoInputs.cache
+C:\My Files\Project\Tracker\Tracker\obj\Debug\netcoreapp2.1\Tracker.AssemblyInfo.cs
+C:\My Files\Project\Tracker\Tracker\bin\Debug\netcoreapp2.1\Tracker.deps.json
+C:\My Files\Project\Tracker\Tracker\bin\Debug\netcoreapp2.1\Tracker.runtimeconfig.json
+C:\My Files\Project\Tracker\Tracker\bin\Debug\netcoreapp2.1\Tracker.runtimeconfig.dev.json
+C:\My Files\Project\Tracker\Tracker\bin\Debug\netcoreapp2.1\Tracker.dll
+C:\My Files\Project\Tracker\Tracker\bin\Debug\netcoreapp2.1\Tracker.pdb
+C:\My Files\Project\Tracker\Tracker\obj\Debug\netcoreapp2.1\Tracker.RazorTargetAssemblyInfo.cache
+C:\My Files\Project\Tracker\Tracker\obj\Debug\netcoreapp2.1\Tracker.dll
+C:\My Files\Project\Tracker\Tracker\obj\Debug\netcoreapp2.1\Tracker.pdb
